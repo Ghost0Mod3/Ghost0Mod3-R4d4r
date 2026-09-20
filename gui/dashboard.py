@@ -268,10 +268,7 @@ class Dashboard:
         )
 
     def track_selected(self):
-
-         HEAD
         selected = self.tree.focus()
-
         if not selected:
 
             self.status.config(
@@ -302,42 +299,6 @@ class Dashboard:
         self.status.config(
             text="Status: Tracking Target"
         )
-=======
-    print("TRACK BUTTON PRESSED")
-
-selected = self.tree.selection()
-
-if not selected:
-
-    print("NO NETWORK SELECTED")
-
-    self.status.config(
-        text="Status: No Network Selected"
-    )
-
-    return
-
-selected = selected[0]
-
-values = self.tree.item(
-    selected
-)["values"]
-
-print(
-    f"Selected Network: {values}"
-)
-
-        if TrackWindow:
-
-            try:
-
-                TrackWindow(
-                    self.root
-                )
-
-            except Exception as error:
-
-                print(error)
 
     def clear_target(self):
 
