@@ -1,3 +1,30 @@
+<div class="ascii-logo">
+  <pre>
+         _                                                   _
+         .k$$$$$g,                                           ,g$$$$$k.
+      .k$$$$$$$$$$$a.                                     .a$$$$$$$$$$$k.
+    .J$$$$$?'   `?$?^?,                                 ,?^?$?`   `?$$$$$L.
+   JS$$SI!a,  _.JS$   ?,                               ,?   $SL._  ,a$!IS$$SL
+  k$$$SI!:?$$$$$$$$$xu$$j                              j$$ux$$$$$$$$$?:!IS$$$k
+ :I$$SI:J$$?*"$$$$4^?*?:                              :?*?^4$$$$"*?$$L:iIS$$I:
+ :IS$$SiJ?`  _.'$?`/'  ':                            :'    '/'?$'._  `?LiS$$SI:
+  ?ISSik? _        ',  .                                .    ,'       _ ?kiSSI?
+    ?i$?` _  k$        .:                              :.        $k   _ `?$i?
+      '?I:-?z$$I   _._.'                                  ._._   I$$z?-:I?'
+     '*?- '?$$a louSxuS?                               ?xuSxuol a$$?' -?*'
+           i$$$$$$$$$$$S                               S$$$$$$$$$$$i
+              ?$$$?-                                       -?$$$?
+
+</pre>
+</div>                 
+
+
+
+
+
+
+
+
 # Ghost0Mod3
 
 Ghost0Mod3 is a Raspberry Pi based Wi-Fi reconnaissance and network awareness platform built around Scapy, monitor mode capture, and a lightweight Tkinter user interface.
